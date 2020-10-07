@@ -1,0 +1,30 @@
+#formid{
+        padding-top:70px;
+      }
+body, html {
+  height: 100%;
+}
+
+#content {
+  background-image: url("https://cdn5.vectorstock.com/i/1000x1000/95/59/colorful-poster-shopping-online-with-common-online-vector-15209559.jpg");
+
+  height: 80%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#banner_content {
+    position: relative;
+
+padding-top: 6%;
+    padding-bottom: 6%;
+    margin-top: 12%;
+
+ margin-bottom: 12%;
+    background-color: rgba(0, 0, 0, 0.7);
+
+ max-width: 660px;
+}
+
+
